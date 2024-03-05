@@ -1,0 +1,28 @@
+einops
+numpy>=1.25
+torch
+datasets
+transformers
+tqdm
+pandas
+fancy_einsum
+torchtyping
+rich
+plotly==5.14.1
+matplotlib
+seaborn
+jaxtyping
+wandb
+papermill
+python-dotenv
+ipykernel
+scipy
+ipywidgets
+# for llama to hf converter
+accelerate
+sentencepiece
+protobuf==3.20.*
+# for bias in bios
+spacy
+# for instruction tuned llama
+fire
